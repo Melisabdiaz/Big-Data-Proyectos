@@ -8,8 +8,9 @@ Este repositorio contiene los proyectos y laboratorios realizados durante la cur
   - Notebooks con análisis paso a paso
   - Scripts `.py` ejecutables
   - Datasets utilizados
-- `/laboratorio2/` → A realizar
-- `/laboratorio3/` → A realizar
+- `/laboratorio2/` → Laboratorio de Spotify
+- `/laboratorio3/` → Laboratorio de Machine Learning
+-  `/laboratorio4/` → Laboratorio de Regresion 
 - `/mini-proyectos/` → TP y ejercicios más pequeños
   - Ejercicios prácticos de Pandas, NumPy, Matplotlib, Seaborn y Plotly
 

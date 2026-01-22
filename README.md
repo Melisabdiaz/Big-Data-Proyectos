@@ -10,7 +10,8 @@ Este repositorio contiene los proyectos y laboratorios realizados durante la cur
   - Datasets utilizados
 - `/laboratorio2/` → Laboratorio de Spotify
 - `/laboratorio3/` → Laboratorio de Machine Learning
--  `/laboratorio4/` → Laboratorio de Regresion 
+-  `/laboratorio 4/` → Laboratorio de Regresion
+-  `/laboratorio Final Integrador/` → Laboratorio integrador de todos los temas vistos en la materia
 - `/mini-proyectos/` → TP y ejercicios más pequeños
   - Ejercicios prácticos de Pandas, NumPy, Matplotlib, Seaborn y Plotly
 

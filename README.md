@@ -16,7 +16,7 @@ Este repositorio contiene los proyectos y laboratorios realizados durante la cur
   - Ejercicios prácticos de Pandas, NumPy, Matplotlib, Seaborn y Plotly
 
 ## Tecnologías y librerías utilizadas
-- **Python** (pandas, numpy, matplotlib, seaborn, plotly)
+- **Python** (pandas, numpy, matplotlib, seaborn, plotly, Scikit-learn)
 - **Jupyter Notebook** para análisis interactivo
 - Visualizaciones interactivas con Plotly
 
